@@ -14,7 +14,7 @@ class Animal():
     # Behaviours - functions that belong to a class
     # Methods - functions that can only be used in this class instance
 
-    def eat(self, food = 'Fajitas'):
+    def eat(self, food = ' Fajitas'):
         return 'NOM NOM NOM' + food
     def sleep(self):
         return 'ZZzzZZZzzz zzo zleeeppy'
@@ -28,5 +28,5 @@ class Animal():
     # -- called initialising an object
 
 #my_animal = Animal()
-#print(type(my_animal))
+
 
