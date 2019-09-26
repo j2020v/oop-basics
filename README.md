@@ -10,7 +10,7 @@ This is class eng-42
     
     - <b>encapsulation</b> - hiding information from the user and restricting access to the user
     
-    - <b>polymorphism</b> - allows us to define methods in the child class with the same name as defined in their parent class.
+    - <b>polymorphism</b> - allows us to define methods in the child class with the same name as defined in their parent class
  
  - Other learning objectives:
     -  Git + GitHub
