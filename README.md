@@ -2,15 +2,15 @@
 This is class eng-42 
 # Objectives:
 - Four Pillars:
-    - <b>Abstraction</b>  - hiding complexities from the user and exposing only necessary parts so that it is readable/understandable. 
+    - <b>Abstraction</b>  - hiding complexities from the user and exposing only necessary parts so that it is readable/understandable
     
     An example would be using the microwave, you turn it on and place your food inside and know that it will do its function of heating up your food. We don't need to know about the particle vibrations that happens inside -- we jsut need to know our food will be warm. 
     
-    - <b>Inheritance</b> - the ability to inherit behaviours and characteristics from a parent class. 
+    - <b>Inheritance</b> - the ability to inherit behaviours and characteristics from a parent class 
     
+    - <b>encapsulation</b> - hiding information from the user and restricting access to the user
     
-    - encapsuation
-    - polymorphism 
+    - <b>polymorphism</b> - allows us to define methods in the child class with the same name as defined in their parent class.
  
  - Other learning objectives:
     -  Git + GitHub
